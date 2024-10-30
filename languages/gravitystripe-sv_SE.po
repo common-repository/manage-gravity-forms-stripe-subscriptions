@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gravitystripe\n"
+"POT-Creation-Date: 2020-10-09 20:35+0530\n"
+"PO-Revision-Date: 2020-10-16 10:40+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"Last-Translator: Björn Granberg <bjorn@mentabee.com>\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin-table.php:8 admin-table.php:19 admin-table.php:72
+msgid "Stripe Subscriptions"
+msgstr "Prenumerationer"
+
+#: admin-table.php:11
+msgid ""
+"To Access this page, Gravityforms and gravityforms Stripe need to be active."
+msgstr ""
+"För att se den här sidan behöver Gravityforms och Gravityforms Stripe vara "
+"aktiverade."
+
+#: admin-table.php:24
+msgid "Let user manage their subscription by adding this shortcode to a page:"
+msgstr ""
+"Låt användaren hantera sin prenumeration genom att lägga denna kortkod på "
+"en sida:"
+
+#: admin-table.php:27
+msgid ""
+"Display all subscriptions on a page (admin view only) with this shortcode:"
+msgstr ""
+"Visa alla prenumerationer på en sida (endast för administratörer) med denna "
+"kortkod:"
+
+#: admin-table.php:47
+msgid "Please select an option below"
+msgstr "Vänligen välj ett alternativ nedan"
+
+#: admin-table.php:51
+msgid "Cancel immediately"
+msgstr "Avsluta direkt"
+
+#: admin-table.php:55
+msgid "Cancel at the end of the cycle"
+msgstr "Avsluta när betalperioden upphör"
+
+#: admin-table.php:123
+msgid "ID"
+msgstr "ID"
+
+#: admin-table.php:124
+msgid "Form ID"
+msgstr "Formulär-ID"
+
+#: admin-table.php:125 gravitystripe-subscriptions-manager.php:441
+msgid "Subscriber"
+msgstr "Prenumerant"
+
+#: admin-table.php:126 gravitystripe-subscriptions-manager.php:442
+msgid "Email"
+msgstr "E-post"
+
+#: admin-table.php:127 gravitystripe-subscriptions-manager.php:359
+#: gravitystripe-subscriptions-manager.php:443
+msgid "Subscription Name"
+msgstr "Prenumeration"
+
+#: admin-table.php:128 gravitystripe-subscriptions-manager.php:361
+#: gravitystripe-subscriptions-manager.php:445
+msgid "Amount / Term"
+msgstr "Belopp / Period"
+
+#: admin-table.php:129 gravitystripe-subscriptions-manager.php:362
+#: gravitystripe-subscriptions-manager.php:446
+msgid "Status"
+msgstr "Status"
+
+#: admin-table.php:130 gravitystripe-subscriptions-manager.php:363
+#: gravitystripe-subscriptions-manager.php:447
+msgid "Action"
+msgstr "Åtgärd"
+
+#: functions.php:69 gravitystripe-subscriptions-manager.php:105
+msgid "Canceled"
+msgstr "Avslutad"
+
+#: functions.php:69
+msgid "Active until"
+msgstr "Aktiv till"
+
+#: functions.php:231 functions.php:333
+msgid "Invalid Request"
+msgstr "Ogiltig begäran"
+
+#: functions.php:243
+msgid "Card can not be updated by you. Please contact administrator"
+msgstr "Kortet kan inte uppdateras av dig. Vänligen kontakta support"
+
+#: functions.php:253 functions.php:277
+msgid "Invalid Card Number. Please Enter Correct Card Number."
+msgstr "Ogiltigt kortnummer. Vänligen ange korrekt kortnummer."
+
+#: functions.php:256
+msgid "Invalid Expiry Month. Please Choose Correct Expiry Month."
+msgstr "Ogiltig utgångsmånad. Vänligen ange korrekt utgångsmånad."
+
+#: functions.php:259
+msgid "Invalid Expiry Year. Please Choose Correct Expiry Year."
+msgstr "Ogiltigt utgångsår. Vänligen ange korrekt utgångsår."
+
+#: functions.php:263 functions.php:280
+msgid "Invalid CVV. Please Enter Correct CVV."
+msgstr "Ogiltigt CVV. Vänligen ange korrekt CVV."
+
+#: functions.php:325
+msgid "Customer Not Found. Please Contact Administrator."
+msgstr "Kund hittades inte. Vänligen kontakta support."
+
+#: functions.php:577 functions.php:590
+msgid "Invalid Entry Passed"
+msgstr "Ogiltig inmatning skickad"
+
+#: functions.php:582
+msgid "Stripe Api Not Found."
+msgstr "Stripe Api hittades inte."
+
+#: functions.php:596
+msgid "Refund Feature Not Enabled"
+msgstr "Återbetalningsfunktion ej aktiverad"
+
+#: functions.php:651
+msgid "Refunded and Canceled"
+msgstr "Återbetald och avslutad"
+
+#: functions.php:685
+msgid "Canceled."
+msgstr "Avslutad."
+
+#: functions.php:685
+msgid "Active Until."
+msgstr "Aktiv till."
+
+#: functions.php:696
+msgid "Upgraded/Canceled"
+msgstr "Uppgraderad/Avslutad"
+
+#: functions.php:701
+msgid "Downgraded/Canceled"
+msgstr "Nedgraderad/Avslutad"
+
+#: functions.php:707 functions.php:749
+msgid "Refunded"
+msgstr "Återbetald"
+
+#: functions.php:710 functions.php:752
+#: gravitystripe-subscriptions-manager.php:106
+msgid "Refunded/Canceled"
+msgstr "Återbetald/Avslutad"
+
+#: functions.php:734
+msgid "cancel"
+msgstr "avbryt"
+
+#: functions.php:743 gravitystripe-subscriptions-manager.php:665
+msgid "Select Action"
+msgstr "Välj åtgärd"
+
+#: functions.php:763 functions.php:764
+#: gravitystripe-subscriptions-manager.php:668
+#: gravitystripe-subscriptions-manager.php:669
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: functions.php:773 functions.php:774
+#: gravitystripe-subscriptions-manager.php:671
+#: gravitystripe-subscriptions-manager.php:672
+msgid "Downgrade"
+msgstr "Nedgradera"
+
+#: functions.php:790 functions.php:792
+#: gravitystripe-subscriptions-manager.php:675
+#: gravitystripe-subscriptions-manager.php:676
+msgid "Update Card"
+msgstr "Uppdatera kort"
+
+#: functions.php:799 functions.php:801
+#: gravitystripe-subscriptions-manager.php:680
+#: gravitystripe-subscriptions-manager.php:681
+msgid "Refund"
+msgstr "Återbetalning"
+
+#: functions.php:1043
+msgid "Leave as it is"
+msgstr "Behåll nuvarande roll"
+
+#: functions.php:1057 functions.php:1058 functions.php:1059 functions.php:1060
+#: functions.php:1061 functions.php:1062
+msgid "Learn More"
+msgstr "Visa mer"
+
+#: functions.php:1067
+msgid "GravityStripe Pro Settings"
+msgstr "GravityStripe Pro"
+
+#: functions.php:1071
+msgid "Cancellation Type"
+msgstr "Typ av avslut"
+
+#: functions.php:1075
+msgid "Cancel Immediately"
+msgstr "Avslutas direkt"
+
+#: functions.php:1076
+msgid "After End of Period"
+msgstr "Efter periodens slut"
+
+#: functions.php:1081
+msgid "Subscriber Cancel Ability"
+msgstr "Avslut av prenumerant"
+
+#: functions.php:1085
+msgid "Enabled"
+msgstr "Aktiverat"
+
+#: functions.php:1086
+msgid "Not Enabled"
+msgstr "Ej aktiverat"
+
+#: functions.php:1087
+msgid "Contact Site Admin to Cancel"
+msgstr "Kontakta support för att avsluta"
+
+#: functions.php:1092
+msgid "Cancellation Form Page"
+msgstr "Sida för med formulär för avslut"
+
+#: functions.php:1101
+msgid "Cancel Automatically If Payment Fails?"
+msgstr "Avsluta automatiskt vid misslyckad betalning?"
+
+#: functions.php:1112
+msgid "# of Failed Attempted Until Canceled"
+msgstr "Antal misslyckade försök innan avslut"
+
+#: functions.php:1121
+msgid "Enable Role Downgrade?"
+msgstr "Aktivera nedgradering av roll?"
+
+#: functions.php:1132
+msgid "Set Downgraded Role"
+msgstr "Ange nedgraderad roll"
+
+#: functions.php:1143
+msgid "Enable Refunds?"
+msgstr "Aktivera återbetalningar?"
+
+#: functions.php:1154
+msgid "Enable Credit Card Details Change?"
+msgstr "Aktivera ändra kortuppgifter?"
+
+#: functions.php:1165
+msgid "Enable Subscription Upgrade?"
+msgstr "Aktivera uppgradering av prenumeration?"
+
+#: functions.php:1182
+msgid "URL for Upgrade Subscription Form"
+msgstr "URL med formulär för uppgradering"
+
+#: functions.php:1190
+msgid "Enable Subscription Downgrade?"
+msgstr "Aktivera nedgradering av prenumeration?"
+
+#: functions.php:1201
+msgid "URL for Downgrade Subscription Form"
+msgstr "URL med formulär för nedgradering"
+
+#: functions.php:1232
+msgid "Enable Cancel After Number of Transactions"
+msgstr "Aktivera Avslut efter antal transaktioner"
+
+#: functions.php:1233
+msgid "Cancel After Number of Transactions"
+msgstr "Avsluta efter antal transaktioner"
+
+#: gravitystripe-subscriptions-manager.php:104
+msgid "Are you sure you want to cancel the subscription?"
+msgstr "Är du säker på att du vill avsluta prenumerationen?"
+
+#: gravitystripe-subscriptions-manager.php:107
+msgid ""
+"Are you sure you want to cancel and refund the last subscription payment?"
+msgstr "Vill du avbryta och återbetala den senaste prenumerationsbetalningen?"
+
+#: gravitystripe-subscriptions-manager.php:108
+msgid "Wrong card number"
+msgstr "Fel kortnummer"
+
+#: gravitystripe-subscriptions-manager.php:109
+msgid "Wrong CVV"
+msgstr "Fel CVV"
+
+#: gravitystripe-subscriptions-manager.php:110
+msgid "Please Select Expiry Month"
+msgstr "Vänligen välj utgångsmånad"
+
+#: gravitystripe-subscriptions-manager.php:111
+msgid "Please Select Expiry Year"
+msgstr "Vänligen välj utgångsår"
+
+#: gravitystripe-subscriptions-manager.php:112
+msgid "Please wait"
+msgstr "Vänta"
+
+#: gravitystripe-subscriptions-manager.php:113
+msgid "Please wait..."
+msgstr "Vänta..."
+
+#: gravitystripe-subscriptions-manager.php:114
+msgid "Credit Card Updated Successfully"
+msgstr "Kortet har uppdateras"
+
+#: gravitystripe-subscriptions-manager.php:176
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: gravitystripe-subscriptions-manager.php:242
+msgid "Cancel"
+msgstr "Avsluta"
+
+#: gravitystripe-subscriptions-manager.php:257
+msgid "per"
+msgstr "per"
+
+#: gravitystripe-subscriptions-manager.php:328
+msgid "No Active Subscriptions"
+msgstr "Inga aktiva prenumerationer"
+
+#: gravitystripe-subscriptions-manager.php:339
+msgid ""
+"GravityForm and Stripe Addon Both plugin need to be active to view list."
+msgstr ""
+"Både GravityForm och Stripe Addon måste vara aktiverade för att visa lista."
+
+#: gravitystripe-subscriptions-manager.php:360
+#: gravitystripe-subscriptions-manager.php:444
+msgid "Start Date"
+msgstr "Registrerades"
+
+#: gravitystripe-subscriptions-manager.php:390
+#: gravitystripe-subscriptions-manager.php:481
+msgid "Please Login to see your subscriptions."
+msgstr "Vänligen logga in för att se dina prenumerationer."
+
+#: gravitystripe-subscriptions-manager.php:393
+#: gravitystripe-subscriptions-manager.php:484
+msgid "No Form ID Specified"
+msgstr "Inget formulär-ID har angetts"
+
+#: gravitystripe-subscriptions-manager.php:476
+msgid "This Area can be accessed by administrators only"
+msgstr "Detta område kan bara nås av administratörer"
+
+#: gravitystripe-subscriptions-manager.php:597
+msgid ""
+"GravityStripe Subscription Management Needs GravityForms and GravityForms "
+"Stripe Acive"
+msgstr ""
+"GravityStripe Prenumerationshantering kräver att GravityForms och "
+"GravityForms Stripe är aktiverade"
+
+#: gravitystripe-subscriptions-manager.php:616
+msgid ""
+"Hello! Seems like you have used GravityStripe Subscription Management on "
+"this website — Thanks a ton!"
+msgstr ""
+"Hej! Verkar som du har använt GravityStripe Prenumeration Management på "
+"denna webbplats — Stort Tack!"
+
+#: gravitystripe-subscriptions-manager.php:618
+msgid ""
+"Please checkout pro version for additional features like refund, upgrade, "
+"downgrade, Update card, Auto cancel etc."
+msgstr ""
+"Pro-versionen ger dig fler funktioner som återbetalning, uppgradering, "
+"nedgradering, uppdatering av kort, automatiskt avslut mm."
+
+#: gravitystripe-subscriptions-manager.php:621
+msgid "Upgrade to Pro"
+msgstr "Uppgradera till Pro"
+
+#: gravitystripe-subscriptions-manager.php:624
+msgid "The Demo"
+msgstr "Demo"
+
+#: gravitystripe-subscriptions-manager.php:628
+msgid "Dismiss"
+msgstr "Avfärda"

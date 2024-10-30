@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravitystripe\n"
+"POT-Creation-Date: 2021-12-15 23:51+0530\n"
+"PO-Revision-Date: 2021-12-15 23:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: manage-gravity-forms-stripe-subscriptions\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:167 functions.php:277
+msgid "Invalid Request"
+msgstr ""
+
+#: functions.php:186
+msgid "Card can not be updated by you. Please contact administrator"
+msgstr ""
+
+#: functions.php:195 functions.php:219
+msgid "Invalid Card Number. Please Enter Correct Card Number."
+msgstr ""
+
+#: functions.php:198
+msgid "Invalid Expiry Month. Please Choose Correct Expiry Month."
+msgstr ""
+
+#: functions.php:201
+msgid "Invalid Expiry Year. Please Choose Correct Expiry Year."
+msgstr ""
+
+#: functions.php:205 functions.php:222
+msgid "Invalid CVV. Please Enter Correct CVV."
+msgstr ""
+
+#: functions.php:269
+msgid "Customer Not Found. Please Contact Administrator."
+msgstr ""
+
+#: functions.php:576 functions.php:590 functions.php:699
+msgid "Invalid Entry Passed"
+msgstr ""
+
+#: functions.php:581
+msgid "Stripe Api Not Found."
+msgstr ""
+
+#: functions.php:595
+msgid "You are not allowed to perform refund."
+msgstr ""
+
+#: functions.php:602
+msgid "Refund Feature Not Enabled"
+msgstr ""
+
+#: functions.php:655
+msgid "Refunded and Canceled"
+msgstr ""
+
+#: functions.php:870
+msgid "Leave as it is"
+msgstr ""
+
+#: functions.php:884 functions.php:885 functions.php:886 functions.php:887
+#: functions.php:888 functions.php:889
+msgid "Learn More"
+msgstr ""
+
+#: functions.php:894
+msgid "GravityStripe Pro"
+msgstr ""
+
+#: functions.php:898
+msgid "Cancellation Type"
+msgstr ""
+
+#: functions.php:902
+msgid "Cancel Immediately"
+msgstr ""
+
+#: functions.php:903
+msgid "After End of Period"
+msgstr ""
+
+#: functions.php:908
+msgid "Subscriber Cancel Ability"
+msgstr ""
+
+#: functions.php:912
+msgid "Enabled"
+msgstr ""
+
+#: functions.php:913
+msgid "Not Enabled"
+msgstr ""
+
+#: functions.php:914
+msgid "Contact Site Admin to Cancel"
+msgstr ""
+
+#: functions.php:919
+msgid "Cancellation Form Page"
+msgstr ""
+
+#: functions.php:928
+msgid "Cancel Automatically If Payment Fails?"
+msgstr ""
+
+#: functions.php:939
+msgid "# of Failed Attempted Until Canceled"
+msgstr ""
+
+#: functions.php:948
+msgid "Enable Role Downgrade?"
+msgstr ""
+
+#: functions.php:959
+msgid "Set Downgraded Role"
+msgstr ""
+
+#: functions.php:970
+msgid "Enable Refunds?"
+msgstr ""
+
+#: functions.php:981
+msgid "Enable Credit Card Details Change?"
+msgstr ""
+
+#: functions.php:992
+msgid "Enable Subscription Upgrade?"
+msgstr ""
+
+#: functions.php:1003
+msgid "URL for Upgrade Subscription Form"
+msgstr ""
+
+#: functions.php:1011
+msgid "Enable Subscription Downgrade?"
+msgstr ""
+
+#: functions.php:1022
+msgid "URL for Downgrade Subscription Form"
+msgstr ""
+
+#: functions.php:1030
+msgid "Enable Stripe Portal Editing?"
+msgstr ""
+
+#: functions.php:1094 functions.php:1311
+#: gravitystripe-subscriptions-manager.php:133
+msgid "Canceled"
+msgstr ""
+
+#: functions.php:1096 functions.php:1313
+#, php-format
+msgid "(Active until %s)"
+msgstr ""
+
+#: functions.php:1109
+msgid "Upgraded/Canceled"
+msgstr ""
+
+#: functions.php:1114
+msgid "Downgraded/Canceled"
+msgstr ""
+
+#: functions.php:1120 functions.php:1123 functions.php:1166
+#: gravitystripe-subscriptions-manager.php:134
+msgid "Refunded/Canceled"
+msgstr ""
+
+#: functions.php:1150 gravitystripe-subscriptions-manager.php:616
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:1163
+msgid "Refunded"
+msgstr ""
+
+#: functions.php:1181
+msgid "Upgrade"
+msgstr ""
+
+#: functions.php:1194
+msgid "Downgrade"
+msgstr ""
+
+#: functions.php:1221
+msgid "Update Card"
+msgstr ""
+
+#: functions.php:1237
+msgid "Refund"
+msgstr ""
+
+#: functions.php:1248
+msgid "Edit Subscription"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:132
+msgid "Are you sure you want to cancel the subscription?"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:135
+msgid ""
+"Are you sure you want to cancel and refund the last subscription payment?"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:136
+msgid "Wrong card number"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:137
+msgid "Wrong CVV"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:138
+msgid "Please Select Expiry Month"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:139
+msgid "Please Select Expiry Year"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:140
+msgid "Please wait"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:141
+msgid "Please wait..."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:142
+msgid "Credit Card Updated Successfully"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:328
+msgid ""
+"GravityStripe Subscription Management Needs GravityForms and GravityForms "
+"Stripe Active and Configured."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:347
+msgid ""
+"Hello! Seems like you have used GravityStripe Subscription Management on "
+"this website — Thanks a ton!"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:349
+msgid ""
+"Please checkout pro version for additional features like refund, upgrade, "
+"downgrade, Update card, Auto cancel etc."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:352
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:355
+msgid "See The Demo"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:359
+msgid "Dismiss"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:525
+msgid "Anonymous"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:637
+msgid "per"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:679
+#: gravitystripe-subscriptions-manager.php:749
+#: gravitystripe-subscriptions-manager.php:1045
+msgid "No Active Subscriptions"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:692
+#: gravitystripe-subscriptions-manager.php:765
+msgid ""
+"GravityForm and Stripe Addon Both plugin need to be active to view list."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:722
+#: gravitystripe-subscriptions-manager.php:799
+msgid "Please Login to see your subscriptions."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:729
+#: gravitystripe-subscriptions-manager.php:806
+msgid "No Form ID Specified"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:794
+msgid "You do not have sufficient permission to access this area."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:929
+#: gravitystripe-subscriptions-manager.php:940
+#: gravitystripe-subscriptions-manager.php:965
+msgid "Stripe Subscriptions"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:932
+msgid ""
+"To Access this page, Gravityforms and GravityForms Stripe Active and "
+"Configured."
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:945
+msgid "Let user manage their subscription by adding this shortcode to a page:"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:948
+msgid ""
+"Display all subscriptions on a page (admin view only) with this shortcode:"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1071
+msgid "No Entries Found"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1191
+#: gravitystripe-subscriptions-manager.php:1264
+#: gravitystripe-subscriptions-manager.php:1364
+msgid "ID"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1201
+#: gravitystripe-subscriptions-manager.php:1296
+#: gravitystripe-subscriptions-manager.php:1407
+msgid "Subscription"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1211
+#: gravitystripe-subscriptions-manager.php:1307
+msgid "Start Date"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1220
+#: gravitystripe-subscriptions-manager.php:1317
+msgid "Renewal Date"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1229
+#: gravitystripe-subscriptions-manager.php:1327
+#: gravitystripe-subscriptions-manager.php:1418
+msgid "Amount / Term"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1238
+#: gravitystripe-subscriptions-manager.php:1337
+#: gravitystripe-subscriptions-manager.php:1428
+msgid "Status"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1247
+#: gravitystripe-subscriptions-manager.php:1347
+#: gravitystripe-subscriptions-manager.php:1438
+msgid "Action"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1274
+#: gravitystripe-subscriptions-manager.php:1385
+msgid "Subscriber"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1285
+#: gravitystripe-subscriptions-manager.php:1396
+msgid "Email"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1374
+msgid "Form ID"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1471
+msgid "Select Action"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1545
+msgid "Cancel immediately"
+msgstr ""
+
+#: gravitystripe-subscriptions-manager.php:1550
+msgid "Cancel at the end of the cycle"
+msgstr ""
